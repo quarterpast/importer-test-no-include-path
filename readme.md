@@ -1,3 +1,3 @@
 ❯ ./build.sh
 /Users/matthew.brennan/Documents/importer-test/a.scss
-b
+/Users/matthew.brennan/Documents/importer-test/b
